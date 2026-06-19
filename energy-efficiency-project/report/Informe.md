@@ -116,18 +116,6 @@ Finalmente, el conjunto de datos fue dividido en:
 * 80 % para entrenamiento.
 * 20 % para pruebas.
 
-Esta división permitirá entrenar y evaluar los modelos en fases posteriores utilizando datos no vistos durante el entrenamiento.
+Esta división permite entrenar y evaluar los modelos en fases posteriores utilizando datos no vistos durante el entrenamiento.
 
----
 
-## 4. Resultado de la fase
-
-Como resultado de esta fase se obtuvo un conjunto de datos limpio, validado y preparado para las siguientes etapas del proyecto.
-
-Las actividades realizadas incluyeron:
-
-* Selección y descripción del dataset.
-* Análisis exploratorio de datos.
-* Revisión de calidad de los datos.
-* Estandarización de variables predictoras.
-* División en conjuntos de entrenamiento y prueba.
